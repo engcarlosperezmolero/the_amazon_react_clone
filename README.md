@@ -1,4 +1,4 @@
-# Clon de Amazon 💰💰💰
+# Clon de Amazon FullStack 💰💰💰
 ---
 
 
@@ -15,3 +15,4 @@
 ### Funcionalidades implementadas resaltantes 💻:
 - Autenticación de usuario COMPLETAMENTE funcional. 👤🔐
 - Añadir y suprimir productos al carrito de compras. 💸
+- Stripe API para procesar pagos con tarjetas, con Node.js y configurado para conectar con firebase. 
